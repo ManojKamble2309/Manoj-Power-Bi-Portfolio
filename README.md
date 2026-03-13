@@ -189,11 +189,12 @@ This dashboard displays detailed vehicle order information including product lin
 kamblemanoj2003@gmail.com
 
 💻 GitHub  
-https://github.com/ManojKamble2309/Power-Bi-Dashboards-
+[https://github.com/ManojKamble2309/Power-Bi-Dashboards-](https://github.com/ManojKamble2309/Manoj-Power-Bi-Portfolio)
 
 📱 Mobile  
 9421167739
 
 ---
+
 
 ⭐ If you like this project, please consider giving it a **star on GitHub**.
