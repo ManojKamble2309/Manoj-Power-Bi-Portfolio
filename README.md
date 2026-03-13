@@ -23,7 +23,8 @@ I enjoy turning raw data into meaningful insights that support **data-driven dec
 
 # 🌍 Global Alcohol Consumption Dashboard
 
-![Global Alcohol Consumption Dashboard](Alcohol consumption.png)
+<img width="770" height="447" alt="Alcohol consumption" src="https://github.com/user-attachments/assets/00157e88-449f-4c66-912f-5f611198254e" />
+
 
 ### Description
 This dashboard provides an overview of alcohol consumption across different countries. It highlights beverage preferences and compares the consumption of beer, wine, and spirits.
@@ -41,7 +42,8 @@ Power BI, Data Visualization, Data Analysis
 
 # 🌮 Taco Delivery Sales Performance Dashboard
 
-![Taco Delivery Dashboard](Taco Delivery Sales Performance Dashboard.png)
+<img width="773" height="450" alt="Taco Delivery Sales Performance Dashboard" src="https://github.com/user-attachments/assets/a8a167aa-1bfe-4016-abdf-05eff59f119a" />
+
 
 ### Description
 This dashboard analyzes taco delivery sales performance and customer ordering patterns across restaurants.
@@ -60,7 +62,8 @@ Power BI, Business Analysis, Data Visualization
 
 # 🚗 Tesla Stock Performance Dashboard
 
-![Tesla Stock Dashboard](Tesla Stock Performance Dashboard  latest.png)
+<img width="775" height="438" alt="Tesla Stock Performance Dashboard  latest" src="https://github.com/user-attachments/assets/d045bb6a-3e4d-4324-bc85-bf3f64d79f20" />
+
 
 ### Description
 This dashboard analyzes Tesla stock performance trends including yearly stock prices and trading values.
@@ -78,7 +81,8 @@ Power BI, Financial Data Analysis, Time Series Visualization
 
 # 🐦 Twitter Engagement Insights Dashboard
 
-![Twitter Dashboard](Twitter Dashboard p1.png)
+<img width="911" height="437" alt="Twitter Dashboard p1" src="https://github.com/user-attachments/assets/37c91fcd-06e2-40bd-a966-b081c58ccb53" />
+
 
 ### Description
 This dashboard analyzes Twitter engagement related to the demonetization discussion.
@@ -96,7 +100,8 @@ Power BI, Social Media Analytics, Data Visualization
 
 # 📱 Twitter Media Type Dashboard
 
-![Twitter Media Dashboard](Twitter Dashboard p2.png)
+<img width="699" height="362" alt="Twitter Dashboard p2" src="https://github.com/user-attachments/assets/302d7a63-fa97-47e9-82ff-fe87f419137b" />
+
 
 ### Description
 This dashboard analyzes engagement based on different Twitter media types such as photos and videos.
@@ -114,7 +119,8 @@ Power BI, Data Visualization
 
 # 📊 Twitter Analytics Overview Dashboard
 
-![Twitter Analytics](Twitter Dashboard p3.png)
+<img width="901" height="438" alt="Twitter Dashboard p3" src="https://github.com/user-attachments/assets/921da862-1c3e-4a44-9b67-8647d3b0d44e" />
+
 
 ### Description
 This dashboard provides a technical overview of Twitter data including hashtag trends and tweet activity.
@@ -129,7 +135,8 @@ This dashboard provides a technical overview of Twitter data including hashtag t
 
 # 📋 Twitter Data Summary Dashboard
 
-![Twitter Data Summary](Twitter Dashboards p4.png)
+<img width="900" height="441" alt="Twitter Dashboards p4" src="https://github.com/user-attachments/assets/5c15b985-d69b-453d-9dfc-e8216129384f" />
+
 
 ### Description
 This dashboard provides a detailed tabular summary of Twitter user data including followers, tweet counts, and engagement metrics.
@@ -138,7 +145,8 @@ This dashboard provides a detailed tabular summary of Twitter user data includin
 
 # 🚘 Vehicle Product Sales Performance Dashboard
 
-![Vehicle Sales Dashboard](Vehicle Product Sales Performance  Overview1.png)
+<img width="838" height="469" alt="Vehicle Product Sales Performance  Overview1" src="https://github.com/user-attachments/assets/fa2a7273-bfef-4bc5-b135-9f31c501a355" />
+
 
 ### Description
 This dashboard analyzes vehicle product sales performance across different territories and product lines.
@@ -156,7 +164,8 @@ Power BI, Sales Analysis, Business Intelligence
 
 # 🚗 Vehicle Sales Data Table
 
-![Vehicle Sales Table](Vehicle Product Sales Performance Overview2.png)
+<img width="838" height="475" alt="Vehicle Product Sales Performance Overview2" src="https://github.com/user-attachments/assets/61a372fe-9cd6-4b49-bb4a-829ef3f131e2" />
+
 
 ### Description
 This dashboard displays detailed vehicle order information including product line, price, territory, and order status.
